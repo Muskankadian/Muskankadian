@@ -1,5 +1,5 @@
-Hello, I'm Muskan Kadian
-A Computer Science Student & Aspiring Developer
+-Hello, I'm Muskan Kadian
+-A Computer Science Student & Aspiring Developer
 
 - 👋 Hello, I am Muskan Kadian
 - 🌱 I’m currently learning MERN
@@ -10,7 +10,8 @@ A Computer Science Student & Aspiring Developer
 
 
 Connect with me:
-https://www.linkedin.com/in/ravi-sharma-586838287/ https://www.instagram.com/raevii_/
+https://www.linkedin.com/in/muskan-kadian-6a5688228
+ https://github.com/Muskankadian
 
 Languages and Tools:
 c css3 html5 javascript mongodb mysql nodejs oracle postgresql python scikit_learn
